@@ -378,6 +378,29 @@ Let's get started: [How do Computer-Use Agents work?](https://outcomeschool.com/
 
 ---
 
+## How do Browser Agents work?
+
+In this blog, we will learn about how browser agents work. We will also see how a browser agent sees a web page, how it takes actions, and how the observe-think-act loop completes a task from start to finish.
+
+We will cover the following:
+
+- What is an AI agent?
+- Why do we need Browser Agents?
+- What is a Browser Agent?
+- The parts of a Browser Agent
+- How does a Browser Agent see a web page?
+- How does a Browser Agent take actions?
+- The observe-think-act loop
+- A complete example: ordering a book
+- A simple code example
+- Screenshots vs page structure
+- Problems and how they are handled
+- Where it works well and where it fails
+
+Let's get started: [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
+
+---
+
 ## How does LangChain work?
 
 In this blog, we will learn about how LangChain works. We will also see why we need it, what chains, prompts, memory, and output parsers are, how retrieval and agents fit in, and how the full flow works together in the real world.
