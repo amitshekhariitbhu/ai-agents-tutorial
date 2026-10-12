@@ -176,6 +176,29 @@ Let's get started: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-mem
 
 ---
 
+## How does ChatGPT remember you?
+
+In this blog, we will learn how ChatGPT remembers us across chats even though the model itself remembers nothing. We will see why LLMs forget by default, how saved memories, chat history, and Custom Instructions work, and how these memories are added to the prompt before every reply.
+
+We will cover the following:
+
+- Why LLMs forget by default
+- The context window
+- Memory within one chat
+- What ChatGPT Memory is
+- Saved memories
+- Reference chat history
+- Custom Instructions
+- How memories enter the prompt
+- An end-to-end example
+- Viewing and deleting memories
+- Temporary Chat
+- Where memory helps and where it fails
+
+Let's get started: [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
+
+---
+
 ## Context Engineering
 
 In this blog, we will learn about Context Engineering - what it is, why it has become the most important skill for building reliable AI applications, how it differs from Prompt Engineering, the components that make up the context, common patterns like RAG, few-shot examples, tools, and memory, and the best practices and common mistakes to keep in mind.
