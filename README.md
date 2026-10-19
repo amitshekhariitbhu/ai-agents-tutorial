@@ -621,6 +621,28 @@ Let's get started: [Design a Real-Time Voice AI Agent](https://outcomeschool.com
 
 ---
 
+## What is turn-taking in a voice AI agent?
+
+In this blog, we will learn about turn-taking in a voice AI agent, how the agent decides when the user has finished speaking, when it is its turn to talk, and what to do when the user starts speaking again while the agent is talking. We will also see why silence alone is not enough, how semantic turn detection reads the meaning of the words, how barge-in and backchannels are handled, and how half-duplex agents differ from full-duplex agents.
+
+We will cover the following:
+
+- What is turn-taking?
+- How humans take turns
+- How a voice AI agent works
+- Why turn-taking is hard for a machine
+- The two jobs of turn-taking
+- Approach 1: Wait for silence
+- Approach 2: Understand the meaning
+- Handling interruptions
+- Not every sound is a new turn
+- Half-duplex vs full-duplex agents
+- A complete walkthrough
+
+Let's get started: [What is turn-taking in a voice AI agent?](https://outcomeschool.com/blog/what-is-turn-taking-in-a-voice-ai-agent)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
