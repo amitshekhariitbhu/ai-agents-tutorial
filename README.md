@@ -643,6 +643,27 @@ Let's get started: [What is turn-taking in a voice AI agent?](https://outcomesch
 
 ---
 
+## What is barge-in in a voice AI agent?
+
+In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
+
+We will cover the following:
+
+- What is barge-in?
+- Where the word barge-in comes from
+- How a voice AI agent speaks and listens
+- Problem 1: The agent hears itself
+- Problem 2: Not every sound is an interruption
+- How the agent detects barge-in
+- What the agent does after barge-in
+- Remembering what the user actually heard
+- Why barge-in must be fast
+- A complete walkthrough
+
+Let's get started: [What is barge-in in a voice AI agent?](https://outcomeschool.com/blog/what-is-barge-in-in-a-voice-ai-agent)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
