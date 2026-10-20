@@ -744,6 +744,27 @@ Let's get started: [Why does the time-to-first-audio matter more than total resp
 
 ---
 
+## How does sentence chunking feed LLM output into TTS faster?
+
+In this blog, we will learn about how sentence chunking feeds LLM output into TTS faster. We will also see why waiting for the full reply makes a voice agent slow, how a buffer collects tokens until a sentence is complete, how the chunker finds where a sentence ends, how it handles tricky cases like "Dr." and "3.5", how the first chunk is made smaller to start speaking even sooner, and where it works well and where it fails.
+
+We will cover the following:
+
+- The problem: the voice waits for the full reply
+- What is sentence chunking?
+- Why not send every token to the TTS?
+- How does the chunker work?
+- Finding the end of a sentence
+- The tricky cases
+- Making the first chunk smaller
+- A walkthrough with numbers
+- What happens when the user interrupts?
+- Where it works well and where it fails
+
+Let's get started: [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
