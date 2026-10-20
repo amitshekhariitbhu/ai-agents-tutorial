@@ -663,6 +663,25 @@ Let's get started: [How does endpointing decide when the user has finished speak
 
 ---
 
+## How do silence-based and model-based turn detection differ?
+
+In this blog, we will learn about how silence-based and model-based turn detection differ. We will also see what turn detection is, how silence-based turn detection works and why a fixed pause fails, how a model predicts the end of a turn from words and from sound, how both are combined in a voice pipeline, and when to use which one.
+
+We will cover the following:
+
+- What is Turn Detection?
+- How Silence-Based Turn Detection Works
+- The Problems with Silence-Based Turn Detection
+- How Model-Based Turn Detection Works
+- Text-Based and Audio-Based Turn Detection Models
+- How Both Work Together in a Voice Pipeline
+- Silence-Based vs Model-Based Turn Detection
+- When to Use Which One
+
+Let's get started: [How do silence-based and model-based turn detection differ?](https://outcomeschool.com/blog/silence-vs-model-based-turn-detection)
+
+---
+
 ## What is barge-in in a voice AI agent?
 
 In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
