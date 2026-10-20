@@ -643,6 +643,26 @@ Let's get started: [What is turn-taking in a voice AI agent?](https://outcomesch
 
 ---
 
+## How does endpointing decide when the user has finished speaking?
+
+In this blog, we will learn about how endpointing decides when the user has finished speaking. We will also see why this decision is so hard, how a simple silence timer works, how voice activity detection finds speech and silence, how the words and the tone of the voice help, how all these signals come together, and how a real voice assistant balances speed with not cutting off the user.
+
+We will cover the following:
+
+- What is Endpointing?
+- Why is Endpointing Hard?
+- Approach 1: Fixed Silence Timer
+- How Voice Activity Detection Works
+- Approach 2: Reading the Words
+- Approach 3: Listening to the Voice
+- Approach 4: Combining All the Signals
+- Waiting Too Long vs Cutting Off Too Early
+- Extra Steps Around the Endpoint
+
+Let's get started: [How does endpointing decide when the user has finished speaking?](https://outcomeschool.com/blog/endpointing-in-voice-agents)
+
+---
+
 ## What is barge-in in a voice AI agent?
 
 In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
