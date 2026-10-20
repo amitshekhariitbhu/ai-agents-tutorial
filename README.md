@@ -704,6 +704,26 @@ Let's get started: [How do you build a latency budget for a voice AI agent?](htt
 
 ---
 
+## How does the voice-to-voice latency of a voice agent get measured?
+
+In this blog, we will learn about how the voice-to-voice latency of a voice agent gets measured. We will also see where the time goes inside a voice agent, why the server logs give the wrong answer, how a two-channel recording gives the right answer, how we automate it over many calls, why we look at percentiles instead of the average, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is voice-to-voice latency?
+- Why is this latency important?
+- Where does the time go?
+- Approach 1: Using the logs on the server
+- Approach 2: Adding timestamps at every step
+- Approach 3: Recording the call on one timeline
+- Automating the measurement over many calls
+- Why do we look at percentiles and not the average?
+- Where it works well and where it fails
+
+Let's get started: [How does the voice-to-voice latency of a voice agent get measured?](https://outcomeschool.com/blog/voice-to-voice-latency)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
