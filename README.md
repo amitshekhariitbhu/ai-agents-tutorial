@@ -724,6 +724,26 @@ Let's get started: [How does the voice-to-voice latency of a voice agent get mea
 
 ---
 
+## Why does the time-to-first-audio matter more than total response time?
+
+In this blog, we will learn about why the time-to-first-audio matters more than total response time. We will also see what each of these two times measures, how people experience silence in a conversation, how streaming lets an agent start speaking before the full reply is ready, which steps decide the time-to-first-audio, and when the total response time still matters.
+
+We will cover the following:
+
+- What is time-to-first-audio?
+- What is total response time?
+- How do people experience waiting on a voice call?
+- Why does the time-to-first-audio matter more?
+- An example with two voice agents
+- How does streaming bring the first audio early?
+- What decides the time-to-first-audio?
+- The rest of the reply must keep up
+- When does the total response time still matter?
+
+Let's get started: [Why does the time-to-first-audio matter more than total response time?](https://outcomeschool.com/blog/time-to-first-audio)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
