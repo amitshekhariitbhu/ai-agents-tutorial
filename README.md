@@ -765,6 +765,26 @@ Let's get started: [How does sentence chunking feed LLM output into TTS faster?]
 
 ---
 
+## How does a TTS model start speaking before the full sentence arrives?
+
+In this blog, we will learn about how a TTS model starts speaking before the full sentence arrives. We will also see why waiting for the full sentence makes a voice assistant feel slow, why a TTS model wants to see the future words, how speaking sentence by sentence and word by word compare, how a small lookahead of a few words solves the problem, how newer models read text and speak at the same time, and where it works well and where it fails.
+
+We will cover the following:
+
+- The problem: the text arrives slowly
+- Why does a TTS model want the full sentence?
+- Approach 1: Wait for the full reply
+- Approach 2: Speak sentence by sentence
+- Approach 3: Speak word by word
+- Approach 4: Speak with a small lookahead
+- Approach 5: Models that read and speak at the same time
+- A walkthrough with numbers
+- Where it works well and where it fails
+
+Let's get started: [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
