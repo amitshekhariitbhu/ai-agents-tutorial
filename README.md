@@ -683,6 +683,27 @@ Let's get started: [Cascaded vs Speech-to-Speech: How to choose the right voice 
 
 ---
 
+## How do you build a latency budget for a voice AI agent?
+
+In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
+
+We will cover the following:
+
+- What is a latency budget?
+- Why does a voice AI agent need a latency budget?
+- Step 1: Pick the total target
+- Step 2: List every stage of the pipeline
+- Step 3: Give each stage its share of the time
+- Step 4: Measure the real numbers
+- Step 5: Cut the biggest delay first
+- How streaming changes the budget
+- How tool calls fit into the budget
+- The trade-off we must accept
+
+Let's get started: [How do you build a latency budget for a voice AI agent?](https://outcomeschool.com/blog/voice-agent-latency-budget)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
