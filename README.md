@@ -785,6 +785,27 @@ Let's get started: [How does a TTS model start speaking before the full sentence
 
 ---
 
+## How does speculative LLM generation start replying before the user finishes?
+
+In this blog, we will learn about how speculative LLM generation starts replying before the user finishes. We will also see where the waiting time goes in a normal voice agent, how the agent makes an early guess from the words it has so far, what happens when the guess is right or wrong, how it can prepare the voice early too, what it costs, and when to use it.
+
+We will cover the following:
+
+- The normal way a voice agent replies
+- Where the waiting time goes
+- What is speculative LLM generation?
+- How speculative LLM generation works step by step
+- What happens when the guess is right
+- What happens when the guess is wrong
+- How does the agent know that the words changed?
+- Preparing the voice early too
+- The cost of speculative LLM generation
+- When to use it and when not to
+
+Let's get started: [How does speculative LLM generation start replying before the user finishes?](https://outcomeschool.com/blog/speculative-generation-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
