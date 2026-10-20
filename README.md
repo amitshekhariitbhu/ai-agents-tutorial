@@ -825,6 +825,26 @@ Let's get started: [How do filler phrases hide latency in a voice agent?](https:
 
 ---
 
+## How does a voice agent hide the delay of a slow tool call?
+
+In this blog, we will learn about how a voice agent hides the delay of a slow tool call. We will also see why a slow tool call hurts so much on a voice call, how the agent speaks a short line right away, how it gives progress updates during a long wait, how it keeps talking while the tool runs in the background, how it starts the tool early to cut the delay itself, and what it says when the tool takes too long.
+
+We will cover the following:
+
+- The problem: a slow tool call on a voice call
+- What is a tool call in a voice agent?
+- Technique 1: Speak a short line right away
+- Technique 2: Progress updates during a long wait
+- Technique 3: Keep talking while the tool runs in the background
+- Technique 4: Start the tool early
+- Technique 5: Make the tool itself faster
+- What if the tool takes too long?
+- Putting it all together in code
+
+Let's get started: [How does a voice agent hide the delay of a slow tool call?](https://outcomeschool.com/blog/slow-tool-calls-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
