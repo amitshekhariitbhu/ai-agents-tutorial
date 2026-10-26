@@ -1739,6 +1739,26 @@ Let's get started: [How do you evaluate a voice AI agent?](https://outcomeschool
 
 ---
 
+## How do simulated callers test a voice agent automatically?
+
+In this blog, we will learn about how simulated callers test a voice agent automatically. We will also see why testing a voice agent by hand is so hard, what a simulated caller is made of, how one test call runs from start to end, how the call gets graded, how we make the callers sound like real people, and where simulated callers work well and where they fail.
+
+We will cover the following:
+
+- What is a voice agent?
+- Why is testing a voice agent by hand so hard?
+- What is a simulated caller?
+- What a simulated caller is made of
+- How one test call runs from start to end
+- How the test call gets graded
+- Making simulated callers sound like real callers
+- Running hundreds of test calls at once
+- Where simulated callers work well and where they fail
+
+Let's get started: [How do simulated callers test a voice agent automatically?](https://outcomeschool.com/blog/simulated-caller-testing)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
