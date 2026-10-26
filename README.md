@@ -825,6 +825,28 @@ Let's get started: [How do half-duplex and full-duplex voice agents differ?](htt
 
 ---
 
+## How does a voice agent tell a real interruption from a cough or background noise?
+
+In this blog, we will learn about how a voice agent tells a real interruption from a cough or background noise. We will also see why this is hard, how the agent cleans the sound before judging it, how it checks for human speech, length, and real words, how it pauses first and resumes when it was wrong, how a trained model helps, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is an interruption in a voice agent?
+- Why is it hard to tell a real interruption from noise?
+- Step 1: Remove the agent's own voice
+- Step 2: Remove the background noise
+- Step 3: Is it human speech?
+- Step 4: Did it last long enough?
+- Step 5: Did the user say real words?
+- Step 6: Pause first, then decide
+- Using a trained interruption model
+- Putting it all together
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent tell a real interruption from a cough or background noise?](https://outcomeschool.com/blog/interruption-vs-background-noise)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
