@@ -1580,6 +1580,29 @@ Let's get started: [How do multi-agent handoffs work in a voice AI system?](http
 
 ---
 
+## How does a voice agent decide when to end the call?
+
+In this blog, we will learn about how a voice agent decides when to end the call. We will also see why ending a call is harder than it looks, how the agent reacts when the user hangs up first, how the LLM recommends ending the call with an end call tool, how the agent says goodbye without cutting it off, how silence and time limits end a call, and how we stop the agent from hanging up too early.
+
+We will cover the following:
+
+- What does ending a call mean for a voice agent?
+- Why is ending a call hard?
+- The signals that end a call
+- Signal 1: The user hangs up
+- Signal 2: The LLM recommends ending the call
+- Saying goodbye without cutting it off
+- Signal 3: The user goes silent
+- Signal 4: The call hits a time limit
+- Signal 5: The call is transferred or reaches a voicemail
+- Stopping the agent from hanging up too early
+- What happens after the call ends
+- Putting it all together in code
+
+Let's get started: [How does a voice agent decide when to end the call?](https://outcomeschool.com/blog/call-ending-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
