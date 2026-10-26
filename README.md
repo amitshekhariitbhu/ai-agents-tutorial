@@ -974,6 +974,28 @@ Let's get started: [How does a voice agent handle the user and agent talking at 
 
 ---
 
+## How does a voice agent add its own backchannels like "okay" and "got it"?
+
+In this blog, we will learn about how a voice agent adds its own backchannels like "okay" and "got it". We will also see why a silent agent feels broken, the two kinds of backchannels an agent uses, how the agent decides the right moment and the right sound, how it plays the sound without interrupting itself, how full-duplex models do it, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is a backchannel?
+- Why does a silent voice agent feel broken?
+- The two kinds of backchannels a voice agent uses
+- The parts of a voice agent
+- How the agent decides when to say "mm-hmm"
+- How the agent picks the right sound
+- How the agent plays the sound without stopping its listening
+- How the agent avoids interrupting itself
+- How the agent says "got it" after the user finishes
+- How full-duplex models do it in a different way
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent add its own backchannels like "okay" and "got it"?](https://outcomeschool.com/blog/agent-side-backchannels)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
