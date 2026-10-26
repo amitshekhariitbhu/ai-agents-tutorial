@@ -1218,6 +1218,27 @@ Let's get started: [Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter fo
 
 ---
 
+## How do WebRTC and WebSocket differ for voice AI agents?
+
+In this blog, we will learn about how WebRTC and WebSocket differ for voice AI agents. We will also see what a voice AI agent needs from the network, how WebSocket carries audio, how WebRTC carries audio, why a lost packet hurts one of them more than the other, what extra work WebRTC does for voice, and when to use which one.
+
+We will cover the following:
+
+- What a voice AI agent needs from the network
+- How audio travels over the internet
+- What is WebSocket?
+- How a voice agent uses WebSocket
+- What is WebRTC?
+- How a voice agent uses WebRTC
+- What happens when a packet is lost
+- The extra work WebRTC does for voice
+- WebRTC vs WebSocket
+- When to use which one
+
+Let's get started: [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
