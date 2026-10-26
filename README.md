@@ -746,6 +746,24 @@ Let's get started: [How does a voice agent know a phone number or email is not f
 
 ---
 
+## Why does a voice agent cut people off mid-sentence?
+
+In this blog, we will learn about why a voice agent cuts people off mid-sentence. We will also see how a voice agent listens and decides when to reply, why a simple silence timer gets it wrong, the common situations that cause it, why making the agent wait longer creates a new problem, how modern voice agents fix it by understanding the meaning of what we said, and how they recover when they still get it wrong.
+
+We will cover the following:
+
+- How a voice agent decides it is time to reply
+- The silence timer
+- Why a pause is not the end of a sentence
+- Common reasons a voice agent cuts us off
+- Why not just wait longer?
+- How does semantic turn detection fix it?
+- Recovering when the agent still gets it wrong
+
+Let's get started: [Why does a voice agent cut people off mid-sentence?](https://outcomeschool.com/blog/voice-agents-cutting-users-off)
+
+---
+
 ## What is barge-in in a voice AI agent?
 
 In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
