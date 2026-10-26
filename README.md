@@ -1556,6 +1556,30 @@ Let's get started: [How does a voice agent manage conversation state across a lo
 
 ---
 
+## How do multi-agent handoffs work in a voice AI system?
+
+In this blog, we will learn about how multi-agent handoffs work in a voice AI system. We will also see why one big agent is not enough, how a handoff is described to the LLM as a tool, what our code does when the LLM recommends a handoff, how the conversation history travels to the next agent, what makes a handoff smooth for the caller, and where handoffs go wrong.
+
+We will cover the following:
+
+- What is a multi-agent voice AI system?
+- Why not one big agent?
+- What is a handoff?
+- Where the handoff happens in the voice pipeline
+- Step 1: Describe the handoff as a tool
+- Step 2: The LLM recommends a handoff
+- Step 3: Our code swaps the active agent
+- Step 4: The context travels with the call
+- Step 5: The new agent speaks
+- The complete flow in one diagram
+- Making the handoff smooth for the caller
+- Handing back and handoff loops
+- Putting it all together in code
+
+Let's get started: [How do multi-agent handoffs work in a voice AI system?](https://outcomeschool.com/blog/multi-agent-handoffs-in-voice-ai)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
