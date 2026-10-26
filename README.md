@@ -866,6 +866,29 @@ Let's get started: [What are backchannels, and why should "mm-hmm" not stop the 
 
 ---
 
+## How does a voice agent stop speaking instantly when interrupted?
+
+In this blog, we will learn about how a voice agent stops speaking instantly when interrupted. We will also see where the agent's audio waits before we hear it, why stopping only the LLM is not enough, how the agent clears every waiting area in the right order, how it ignores late audio that is still on the way, how it remembers only what we actually heard, and where it works well and where it fails.
+
+We will cover the following:
+
+- What does stopping instantly mean?
+- How a voice agent speaks
+- Where the audio waits before we hear it
+- Why stopping the LLM is not enough
+- Step 1: Stop the sound at our ear
+- Step 2: Clear the server buffer
+- Step 3: Cancel the work that makes new audio
+- Step 4: Ignore late audio with a reply number
+- Step 5: Remember only what was heard
+- Keeping the waiting areas small
+- A complete example
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent stop speaking instantly when interrupted?](https://outcomeschool.com/blog/stopping-speech-on-interruption)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
