@@ -1323,6 +1323,27 @@ Let's get started: [How does a voice AI agent answer a phone call?](https://outc
 
 ---
 
+## How do SIP and RTP carry a phone call to a voice agent?
+
+In this blog, we will learn about how SIP and RTP carry a phone call to a voice agent. We will also see how a normal phone call reaches the internet, how SIP rings the voice agent and agrees on the audio format, how RTP packs the voice into small packets, what happens inside the voice agent when those packets arrive, how the agent speaks back, and how the call finally ends.
+
+We will cover the following:
+
+- The journey of a phone call to a voice agent
+- What is SIP?
+- What does a SIP call setup look like?
+- What is SDP?
+- What is RTP?
+- What is inside an RTP packet?
+- What the voice agent does with the RTP packets
+- How the voice agent speaks back
+- How the call ends
+- SIP vs RTP
+
+Let's get started: [How do SIP and RTP carry a phone call to a voice agent?](https://outcomeschool.com/blog/sip-and-rtp)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
