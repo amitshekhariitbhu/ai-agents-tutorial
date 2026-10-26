@@ -1670,6 +1670,28 @@ Let's get started: [How does a voice agent handle accents and noisy environments
 
 ---
 
+## How does a voice agent detect and switch the user's language mid-call?
+
+In this blog, we will learn about how a voice agent detects and switches the user's language mid-call. We will also see why a fixed language breaks the call, the different ways to find the spoken language, how a confidence score protects us from wrong switches, what changes inside the agent during a switch, how mixed-language speech is handled, and where this works well and where it fails.
+
+We will cover the following:
+
+- The problem with a fixed language
+- How a voice agent works
+- What is language detection?
+- Approach 1: Ask the user
+- Approach 2: Detect the language from the audio
+- Approach 3: Detect the language from the text
+- Confidence: when does the agent switch?
+- What changes when the agent switches
+- A full call example
+- Mixed-language speech
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent detect and switch the user's language mid-call?](https://outcomeschool.com/blog/language-switching-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
