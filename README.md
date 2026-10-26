@@ -1261,6 +1261,26 @@ Let's get started: [How does the Opus codec compress voice for real-time calls?]
 
 ---
 
+## How does a jitter buffer keep voice audio smooth over a bad network?
+
+In this blog, we will learn about how a jitter buffer keeps voice audio smooth over a bad network. We will also see how voice travels over the internet in small packets, what jitter is and why it breaks the audio, how the jitter buffer fixes it step by step, how a fixed jitter buffer differs from an adaptive one, what happens when a packet arrives too late or never arrives, and where the jitter buffer sits in a voice AI agent.
+
+We will cover the following:
+
+- How voice travels over the internet
+- What is jitter?
+- Why uneven arrival breaks the audio
+- What is a jitter buffer?
+- How a jitter buffer works step by step
+- The trade-off: smoothness vs delay
+- Fixed jitter buffer vs adaptive jitter buffer
+- What happens when a packet is late or lost
+- Where the jitter buffer sits in a voice AI agent
+
+Let's get started: [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
