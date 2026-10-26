@@ -1514,6 +1514,26 @@ Let's get started: [How does a voice agent handle structured inputs like dates, 
 
 ---
 
+## How does a voice agent confirm and correct misheard information?
+
+In this blog, we will learn about how a voice agent confirms and corrects misheard information. We will also see why a voice agent mishears in the first place, how it uses a confidence score to decide when to confirm, the difference between explicit and implicit confirmation, how it reads numbers and spellings back clearly, how it fixes only the wrong part when the caller says "no", and when to confirm and when to skip it.
+
+We will cover the following:
+
+- Why does a voice agent mishear?
+- What does it mean to confirm and correct?
+- What is a confidence score?
+- Explicit confirmation vs Implicit confirmation
+- Reading back numbers and spellings
+- Correcting only the wrong part
+- Checking the value with simple rules
+- Putting it all together in code
+- When to confirm and when to skip
+
+Let's get started: [How does a voice agent confirm and correct misheard information?](https://outcomeschool.com/blog/confirm-and-correct-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
