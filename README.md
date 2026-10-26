@@ -1405,6 +1405,28 @@ Let's get started: [How does voicemail and answering machine detection work?](ht
 
 ---
 
+## How does an outbound calling voice agent work?
+
+In this blog, we will learn about how an outbound calling voice agent works. We will also see how it differs from an inbound call, how it decides whom to call and when, how a call reaches a phone, how it knows whether a human or a voicemail picked up, how every call ends with a saved outcome and a plan for the next try, and where it is used.
+
+We will cover the following:
+
+- What is an outbound calling voice agent?
+- Inbound vs Outbound calls
+- The big picture of an outbound call
+- Step 1: Deciding whom to call and when
+- Step 2: Placing the call through the phone network
+- Step 3: Ringing, busy, or no answer
+- Step 4: Human or voicemail?
+- Step 5: Starting the conversation
+- Step 6: Running the conversation
+- Step 7: Ending the call and saving the outcome
+- Where outbound calling voice agents are used
+
+Let's get started: [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
