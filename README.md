@@ -931,6 +931,26 @@ Let's get started: [How does a voice agent truncate its memory to only what the 
 
 ---
 
+## How does a voice agent recover from a false interruption?
+
+In this blog, we will learn about how a voice agent recovers from a false interruption. We will also see what a false interruption is, why pausing works better than stopping, how the agent decides that an interruption was false, how it continues speaking from the right place, how it keeps the conversation history correct, and how to tune the waiting time.
+
+We will cover the following:
+
+- What is a false interruption?
+- What goes wrong without recovery
+- Pause, do not stop
+- How does the agent decide that an interruption was false?
+- How does the agent continue speaking?
+- When the interruption turns out to be real
+- Keeping the conversation history correct
+- A complete example from start to end
+- Tuning the waiting time
+
+Let's get started: [How does a voice agent recover from a false interruption?](https://outcomeschool.com/blog/false-interruption-recovery)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
