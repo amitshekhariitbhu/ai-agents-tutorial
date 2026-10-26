@@ -1239,6 +1239,28 @@ Let's get started: [How do WebRTC and WebSocket differ for voice AI agents?](htt
 
 ---
 
+## How does the Opus codec compress voice for real-time calls?
+
+In this blog, we will learn about how the Opus codec compresses voice for real-time calls. We will also see why raw voice is too big to send, what a codec does, how Opus cuts the voice into small frames, how its two engines SILK and CELT shrink the sound, how it handles silence and lost packets, and why it is used in WebRTC and voice AI agents.
+
+We will cover the following:
+
+- Why raw voice is too big for a call
+- What is a codec?
+- What is the Opus codec?
+- Step 1: Cutting the voice into small frames
+- Step 2: Keeping only what our ears can hear
+- Step 3: SILK, the speech engine
+- Step 4: CELT, the music engine
+- Step 5: Hybrid mode, using both engines together
+- How Opus saves data during silence
+- How Opus handles lost packets
+- Why Opus is used for real-time calls and voice agents
+
+Let's get started: [How does the Opus codec compress voice for real-time calls?](https://outcomeschool.com/blog/opus-codec)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
