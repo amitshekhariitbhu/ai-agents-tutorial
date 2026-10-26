@@ -910,6 +910,27 @@ Let's get started: [Why does TTS audio buffering make interruptions slow?](https
 
 ---
 
+## How does a voice agent truncate its memory to only what the user actually heard?
+
+In this blog, we will learn about how a voice agent truncates its memory to only what the user actually heard. We will also see what the memory of a voice agent is, why the agent prepares its reply faster than it speaks it, what goes wrong when the memory is not cut, how the agent measures what was played and turns that time into words, how a speech-to-speech API does the same thing, and which edge cases the agent must handle.
+
+We will cover the following:
+
+- What is the memory of a voice agent?
+- The problem: the agent remembers more than the user heard
+- Why the reply is ready before it is spoken
+- What goes wrong if we do not truncate
+- How the agent knows what the user actually heard
+- Turning played time into words
+- Truncating the memory step by step
+- A complete walkthrough
+- How a speech-to-speech API does this
+- Edge cases
+
+Let's get started: [How does a voice agent truncate its memory to only what the user actually heard?](https://outcomeschool.com/blog/truncating-context-on-interruption)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
