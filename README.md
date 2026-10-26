@@ -467,6 +467,26 @@ Let's get started: [How does LangGraph work?](https://outcomeschool.com/blog/how
 
 ---
 
+## How do Human-in-the-Loop agents work?
+
+In this blog, we will learn about how Human-in-the-Loop agents work. We will also see why a fully automatic agent is risky, the points where a human can step in, how an agent pauses and continues after the human replies, how to decide which actions need a human, and where this approach works well and where it slows us down.
+
+We will cover the following:
+
+- The problem with fully automatic agents
+- What is a Human-in-the-Loop agent?
+- Where can a human step in?
+- How does a Human-in-the-Loop agent work?
+- How does the agent pause and continue?
+- A simple code example
+- Which actions need a human?
+- Common mistakes
+- Advantages and disadvantages
+
+Let's get started: [How do Human-in-the-Loop agents work?](https://outcomeschool.com/blog/human-in-the-loop-agents)
+
+---
+
 ## Harness Engineering in AI
 
 In this blog, we will learn about Harness Engineering in AI. We will understand what a harness is, why we need it, and how it is used in AI Agents and evaluation systems.
