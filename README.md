@@ -1178,6 +1178,25 @@ Let's get started: [How does a voice agent hide the delay of a slow tool call?](
 
 ---
 
+## What are audio frames and chunk sizes in a real-time voice pipeline?
+
+In this blog, we will learn about audio frames and chunk sizes in a real-time voice pipeline. We will also see how sound becomes numbers, how those numbers are grouped into frames, how to calculate the size of a frame, how chunk size affects both delay and overhead, why every part of the pipeline wants a different size, and how to pick the right chunk size for our use case.
+
+We will cover the following:
+
+- How sound becomes numbers
+- What is an audio frame?
+- How to calculate the size of a frame
+- What is a chunk size?
+- How chunk size affects delay
+- The cost of very small chunks
+- Different parts want different sizes
+- How to pick the right chunk size
+
+Let's get started: [What are audio frames and chunk sizes in a real-time voice pipeline?](https://outcomeschool.com/blog/audio-frames-and-chunk-sizes)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
