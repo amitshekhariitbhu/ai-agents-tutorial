@@ -889,6 +889,27 @@ Let's get started: [How does a voice agent stop speaking instantly when interrup
 
 ---
 
+## Why does TTS audio buffering make interruptions slow?
+
+In this blog, we will learn about why TTS audio buffering makes interruptions slow. We will also see how a TTS model creates audio faster than real time, where the extra audio waits before we hear it, how much delay a full buffer adds when we interrupt, why we cannot simply remove all the buffers, how pacing the audio keeps the buffers small, and where this works well and where it fails.
+
+We will cover the following:
+
+- What is TTS audio buffering?
+- TTS creates audio faster than we can hear it
+- Where the extra audio waits
+- What happens when we interrupt
+- How much delay does the buffer add?
+- Why we cannot remove the buffers
+- The fix: send audio at the speed of speech
+- Clearing what is left
+- A complete example
+- Where it works well and where it fails
+
+Let's get started: [Why does TTS audio buffering make interruptions slow?](https://outcomeschool.com/blog/tts-audio-buffering)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
