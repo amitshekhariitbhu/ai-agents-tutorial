@@ -1716,6 +1716,29 @@ Let's get started: [How does a voice agent match its tone and emotion to the use
 
 ---
 
+## How do you evaluate a voice AI agent?
+
+In this blog, we will learn about how we evaluate a voice AI agent. We will also see why it is harder than evaluating a chat agent, the five checks we run on every call, how we test it with simulated callers before launch, how we evaluate real calls after launch, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is a voice AI agent?
+- What does it mean to evaluate a voice AI agent?
+- Why is it harder than evaluating a chat agent?
+- The five things we check
+- Check 1: Did it hear correctly?
+- Check 2: Did it do the right thing?
+- Check 3: Did it speak well?
+- Check 4: Was it fast enough?
+- Check 5: Did it take turns naturally?
+- Testing with simulated callers before launch
+- Evaluating real calls after launch
+- Where it works well and where it fails
+
+Let's get started: [How do you evaluate a voice AI agent?](https://outcomeschool.com/blog/voice-agent-evaluation)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
