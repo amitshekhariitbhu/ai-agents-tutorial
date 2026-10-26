@@ -804,6 +804,27 @@ Let's get started: [Cascaded vs Speech-to-Speech: How to choose the right voice 
 
 ---
 
+## How do half-duplex and full-duplex voice agents differ?
+
+In this blog, we will learn about how half-duplex and full-duplex voice agents differ. We will also see what the word duplex means, how a half-duplex voice agent works step by step, why it feels slow and unnatural, how barge-in tries to fix it, how a full-duplex voice agent listens and speaks together, and when to use which one.
+
+We will cover the following:
+
+- What does duplex mean?
+- What is a half-duplex voice agent?
+- How a half-duplex voice agent works step by step
+- The problems with half-duplex
+- Barge-in on top of half-duplex
+- What is a full-duplex voice agent?
+- How a full-duplex voice agent works
+- The same conversation in both agents
+- Half-duplex vs full-duplex
+- When to use which one
+
+Let's get started: [How do half-duplex and full-duplex voice agents differ?](https://outcomeschool.com/blog/half-duplex-vs-full-duplex-voice-agents)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
