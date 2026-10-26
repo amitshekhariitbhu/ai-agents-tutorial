@@ -682,6 +682,26 @@ Let's get started: [How do silence-based and model-based turn detection differ?]
 
 ---
 
+## How does dynamic endpointing adapt to how fast a user talks?
+
+In this blog, we will learn about how dynamic endpointing adapts to how fast a user talks. We will also see what endpointing is, why a fixed silence timer fails for fast and slow talkers, how the system learns the pauses of a user and turns them into a waiting time, how the meaning of the sentence changes that waiting time, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is endpointing?
+- The problem with a fixed silence timer
+- What is dynamic endpointing?
+- How does the system measure how fast a user talks?
+- Turning pauses into a waiting time
+- A simple dynamic endpointer in code
+- A step-by-step walkthrough
+- Using the meaning of the sentence as well
+- Where it works well and where it fails
+
+Let's get started: [How does dynamic endpointing adapt to how fast a user talks?](https://outcomeschool.com/blog/dynamic-endpointing)
+
+---
+
 ## What is barge-in in a voice AI agent?
 
 In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
