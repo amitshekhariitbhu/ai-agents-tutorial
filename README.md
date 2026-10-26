@@ -424,6 +424,30 @@ Let's get started: [How do Browser Agents work?](https://outcomeschool.com/blog/
 
 ---
 
+## How does a deep research agent work?
+
+In this blog, we will learn about how a deep research agent works. We will also see why a normal LLM answer is not enough for big questions, how the agent plans, searches, reads, takes notes, and finds gaps in a loop, how many helper agents can research in parallel, how the final report with sources is written, and where deep research works well and where it fails.
+
+We will cover the following:
+
+- The problem with a normal LLM answer
+- What is a deep research agent?
+- How does a deep research agent work?
+- Step 1: Understand the question
+- Step 2: Make a research plan
+- Step 3: Search and read
+- Step 4: Take notes
+- Step 5: Reflect and find the gaps
+- Step 6: Write the report with sources
+- Many agents working together
+- A simple code example
+- Normal chat vs deep research
+- Where it works well and where it fails
+
+Let's get started: [How does a deep research agent work?](https://outcomeschool.com/blog/deep-research-agent)
+
+---
+
 ## How does LangChain work?
 
 In this blog, we will learn about how LangChain works. We will also see why we need it, what chains, prompts, memory, and output parsers are, how retrieval and agents fit in, and how the full flow works together in the real world.
