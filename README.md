@@ -1302,6 +1302,27 @@ Let's get started: [How does packet loss concealment hide missing audio?](https:
 
 ---
 
+## How does a voice AI agent answer a phone call?
+
+In this blog, we will learn about how a voice AI agent answers a phone call. We will also see how a call travels from the caller's phone to our server, what the phone number and the telephony provider do, how the caller's voice reaches our agent as a stream of audio chunks, how the agent listens, thinks, and speaks back into the call, how it handles interruptions, and how the call ends or gets transferred to a human.
+
+We will cover the following:
+
+- What is a voice AI agent on a phone call?
+- The journey of a phone call
+- Step 1: The caller dials a phone number
+- Step 2: The telephony provider receives the call
+- Step 3: Our server decides what to do with the call
+- Step 4: The caller's voice reaches our agent
+- Step 5: The agent listens, thinks, and speaks
+- Step 6: The agent's voice goes back into the call
+- Handling interruptions on a phone call
+- How the call ends
+
+Let's get started: [How does a voice AI agent answer a phone call?](https://outcomeschool.com/blog/phone-calls-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
