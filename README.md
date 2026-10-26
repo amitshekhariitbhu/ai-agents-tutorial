@@ -1534,6 +1534,28 @@ Let's get started: [How does a voice agent confirm and correct misheard informat
 
 ---
 
+## How does a voice agent manage conversation state across a long call?
+
+In this blog, we will learn about how a voice agent manages conversation state across a long call. We will also see what conversation state is, why a long call breaks the simple approach, how the agent trims and summarizes old turns, how it keeps facts in a structured state, how it tracks the stage of the call, and how it keeps the state safe when the call drops.
+
+We will cover the following:
+
+- What is conversation state?
+- How does the simple approach work?
+- Why does a long call break the simple approach?
+- Approach 1: Keep only the recent turns
+- Approach 2: Summarize the older turns
+- Approach 3: Keep the important facts in a structured state
+- Tracking the stage of the call
+- Keeping tool results small
+- Saving only what the user actually heard
+- Keeping the state safe when the call drops
+- Putting it all together
+
+Let's get started: [How does a voice agent manage conversation state across a long call?](https://outcomeschool.com/blog/conversation-state-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
