@@ -847,6 +847,25 @@ Let's get started: [How does a voice agent tell a real interruption from a cough
 
 ---
 
+## What are backchannels, and why should "mm-hmm" not stop the agent?
+
+In this blog, we will learn about what backchannels are and why "mm-hmm" should not stop the agent. We will also see how backchannels work in a normal human conversation, what goes wrong when a voice agent treats them as interruptions, how an agent tells a backchannel apart from a real interruption, what the agent does while it is still unsure, and where this works well and where it fails.
+
+We will cover the following:
+
+- What is a backchannel?
+- Backchannels in a normal conversation
+- What goes wrong when "mm-hmm" stops the agent
+- Backchannel vs real interruption
+- How a voice agent tells them apart
+- What the agent does while it is unsure
+- A complete example
+- Where it works well and where it fails
+
+Let's get started: [What are backchannels, and why should "mm-hmm" not stop the agent?](https://outcomeschool.com/blog/backchannels-in-voice-agents)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
