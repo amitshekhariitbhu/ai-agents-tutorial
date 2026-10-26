@@ -1427,6 +1427,25 @@ Let's get started: [How does an outbound calling voice agent work?](https://outc
 
 ---
 
+## How does a voice agent transfer a call to a human with context?
+
+In this blog, we will learn about how a voice agent transfers a call to a human with context. We will also see why a voice agent needs to hand off a call at all, how it decides the right moment to transfer, what context it must pass along, the difference between a cold transfer and a warm transfer, how the call and the context travel together, and what happens when no human is free to take the call.
+
+We will cover the following:
+
+- The problem: transferring a call without context
+- What is a call transfer with context?
+- When does a voice agent decide to transfer?
+- What context must travel with the call?
+- Cold transfer vs Warm transfer
+- How do the call and the context travel together?
+- Putting it all together in code
+- What if no human is available?
+
+Let's get started: [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
