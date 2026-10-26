@@ -702,6 +702,29 @@ Let's get started: [How does dynamic endpointing adapt to how fast a user talks?
 
 ---
 
+## How does a voice agent handle long pauses when the user is thinking?
+
+In this blog, we will learn about how a voice agent handles long pauses when the user is thinking. We will also see why silence is confusing for a voice agent, why a simple silence timer fails, how the agent uses the words and the voice to decide, how it changes its waiting time, what it does when it speaks too early or the user stays silent for very long, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is a thinking pause?
+- Why is a long pause a hard problem?
+- How does a voice agent hear silence?
+- Approach 1: A fixed silence timer
+- Approach 2: A longer silence timer
+- Approach 3: Looking at the words
+- Approach 4: Listening to how the words are said
+- Changing the waiting time dynamically
+- What if the agent starts speaking too early?
+- What if the user stays silent for a very long time?
+- The complete flow
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent handle long pauses when the user is thinking?](https://outcomeschool.com/blog/long-pauses-in-voice-agents)
+
+---
+
 ## What is barge-in in a voice AI agent?
 
 In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
