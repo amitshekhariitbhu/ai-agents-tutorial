@@ -1281,6 +1281,27 @@ Let's get started: [How does a jitter buffer keep voice audio smooth over a bad 
 
 ---
 
+## How does packet loss concealment hide missing audio?
+
+In this blog, we will learn about how packet loss concealment hides missing audio. We will also see what packet loss is, why a gap in audio sounds so bad, how the approaches evolved from playing silence to repeating the pitch of the voice, how codecs like Opus and neural networks make a better guess, where it fits in a voice AI agent, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is packet loss?
+- Why does a gap in audio sound so bad?
+- What is packet loss concealment?
+- Approach 1: Play silence
+- Approach 2: Repeat the last packet
+- Approach 3: Repeat one pitch cycle and fade out
+- Approach 4: Let the codec guess
+- Approach 5: Let a neural network guess
+- Where does packet loss concealment fit in a voice AI agent?
+- Where it works well and where it fails
+
+Let's get started: [How does packet loss concealment hide missing audio?](https://outcomeschool.com/blog/packet-loss-concealment)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
