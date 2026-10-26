@@ -1446,6 +1446,29 @@ Let's get started: [How does a voice agent transfer a call to a human with conte
 
 ---
 
+## How do you write a system prompt for a voice agent, not a chat bot?
+
+In this blog, we will learn about how to write a system prompt for a voice agent, not a chat bot. We will also see what a system prompt is, why text written for a screen fails on a call, how to keep replies short and free of formatting, how to make the agent speak numbers and names correctly, how to handle mishearing, tool waits, and the end of the call, and how to put all of it together into one complete prompt.
+
+We will cover the following:
+
+- What is a system prompt?
+- How is a voice agent different from a chat bot?
+- Why does a chat bot prompt fail on a voice call?
+- Rule 1: Keep every reply short
+- Rule 2: No formatting, only plain spoken text
+- Rule 3: Write numbers, dates, and symbols the way we speak them
+- Rule 4: Ask one question at a time
+- Rule 5: Plan for mishearing
+- Rule 6: Confirm the important details
+- Rule 7: Fill the silence while a tool runs
+- Rule 8: Know how to end the call
+- Putting it all together: a complete voice agent system prompt
+
+Let's get started: [How do you write a system prompt for a voice agent, not a chat bot?](https://outcomeschool.com/blog/voice-agent-system-prompt)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
