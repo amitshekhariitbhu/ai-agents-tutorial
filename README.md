@@ -951,6 +951,29 @@ Let's get started: [How does a voice agent recover from a false interruption?](h
 
 ---
 
+## How does a voice agent handle the user and agent talking at the same time?
+
+In this blog, we will learn about how a voice agent handles the user and agent talking at the same time. We will also see why overlapping speech is a hard problem, the different kinds of overlap, how the agent hears the user over its own voice and decides whether to stop or continue, how it keeps the conversation history correct after it stops, how full-duplex models handle overlap in a different way, and where it works well and where it fails.
+
+We will cover the following:
+
+- What is overlapping speech?
+- Why is overlapping speech a hard problem for a voice agent?
+- The different kinds of overlap
+- Step 1: Keep listening while speaking
+- Step 2: Remove the agent's own voice
+- Step 3: Decide what kind of overlap it is
+- Step 4: Act on the decision
+- Step 5: Keep the conversation history correct
+- What if both start speaking at the same moment?
+- How full-duplex models handle overlap
+- A complete example
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent handle the user and agent talking at the same time?](https://outcomeschool.com/blog/overlapping-speech-in-voice-agents)
+
+---
+
 ## How do you build a latency budget for a voice AI agent?
 
 In this blog, we will learn about how to build a latency budget for a voice AI agent, a plan that splits the total waiting time for a reply into smaller pieces, one for each step of the agent. We will also see why a voice AI agent needs one, how to pick the total target and split it across every stage, how to measure the real numbers and cut the biggest delays first, how streaming and tool calls change the budget, and what trade-off we must accept.
