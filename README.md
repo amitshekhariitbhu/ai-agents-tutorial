@@ -725,6 +725,27 @@ Let's get started: [How does a voice agent handle long pauses when the user is t
 
 ---
 
+## How does a voice agent know a phone number or email is not finished yet?
+
+In this blog, we will learn about how a voice agent knows a phone number or email is not finished yet. We will also see why people pause in the middle of numbers and emails, why waiting for silence alone fails, how the agent uses the question it just asked, how it checks whether the value looks complete, how a turn detection model reads the words, and where this works well and where it fails.
+
+We will cover the following:
+
+- The problem: people pause in the middle
+- What is endpointing?
+- Approach 1: Wait for a fixed silence
+- Approach 2: Wait longer for everyone
+- Approach 3: Use the question the agent just asked
+- Approach 4: Check if the value looks complete
+- Approach 5: A turn detection model that reads the words
+- How all the signals work together
+- What the agent does when it is still unsure
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent know a phone number or email is not finished yet?](https://outcomeschool.com/blog/unfinished-input-in-voice-agents)
+
+---
+
 ## What is barge-in in a voice AI agent?
 
 In this blog, we will learn about barge-in in a voice AI agent, what happens when the user starts speaking while the agent is still talking, and how the agent stops so it can listen. We will also see why the agent can hear its own voice and how echo cancellation fixes it, how the agent tells a real interruption apart from "uh-huh", a cough, or background noise, what it does after a barge-in, and why it must remember only the part of the reply the user actually heard.
