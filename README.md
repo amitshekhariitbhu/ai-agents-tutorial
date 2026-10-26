@@ -1469,6 +1469,29 @@ Let's get started: [How do you write a system prompt for a voice agent, not a ch
 
 ---
 
+## How does function calling work in a voice AI agent?
+
+In this blog, we will learn about how function calling works in a voice AI agent. We will also see how we describe our functions to the LLM, how the LLM picks a function from what the user said, how our code runs it and sends the result back, how the agent turns that result into a spoken reply, what changes when the input is a voice instead of typed text, and how it works with a speech-to-speech model.
+
+We will cover the following:
+
+- What is function calling?
+- Where function calling fits in a voice AI agent
+- Step 1: Describe the functions to the LLM
+- Step 2: The user speaks
+- Step 3: The LLM picks a function and its inputs
+- Step 4: Our code runs the function
+- Step 5: The result goes back to the LLM
+- Step 6: The agent speaks the answer
+- The complete flow in one diagram
+- What changes when the input is a voice
+- Function calling with a speech-to-speech model
+- Putting it all together in code
+
+Let's get started: [How does function calling work in a voice AI agent?](https://outcomeschool.com/blog/function-calling-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
