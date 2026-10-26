@@ -1492,6 +1492,28 @@ Let's get started: [How does function calling work in a voice AI agent?](https:/
 
 ---
 
+## How does a voice agent handle structured inputs like dates, numbers, and addresses?
+
+In this blog, we will learn about how a voice agent handles structured inputs like dates, numbers, and addresses. We will also see why these inputs are hard to capture over a call, how spoken words are turned into written values, how the LLM fills the right fields, how the agent checks and confirms each value, how it speaks these values back clearly, and the tricks that make dates, phone numbers, spellings, and addresses work reliably.
+
+We will cover the following:
+
+- What is a structured input?
+- Why structured inputs are hard for a voice agent
+- The journey of a spoken value
+- Turning spoken words into written values
+- Filling the fields with the LLM
+- Checking the value
+- Confirming with the caller
+- Speaking structured values back
+- Handling dates
+- Handling numbers and phone numbers
+- Handling names, spellings, and addresses
+
+Let's get started: [How does a voice agent handle structured inputs like dates, numbers, and addresses?](https://outcomeschool.com/blog/structured-inputs-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
