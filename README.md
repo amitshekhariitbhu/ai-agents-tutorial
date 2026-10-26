@@ -1692,6 +1692,30 @@ Let's get started: [How does a voice agent detect and switch the user's language
 
 ---
 
+## How does a voice agent match its tone and emotion to the user?
+
+In this blog, we will learn about how a voice agent matches its tone and emotion to the user. We will also see why matching does not mean copying, how the agent detects emotion from the words and the voice, how it decides the tone of its reply, how it speaks that reply with the right feeling, how it keeps the tone steady across a call, and where it works well and where it fails.
+
+We will cover the following:
+
+- What do tone and emotion mean in a voice?
+- Why a voice agent must match the tone of the user
+- Matching does not mean copying
+- Where emotion fits in a voice agent
+- Step 1: Detecting the emotion from the words
+- Step 2: Detecting the emotion from the voice
+- Step 3: Combining both signals
+- Step 4: Deciding the tone of the reply
+- Step 5: Choosing the right words
+- Step 6: Speaking with the right tone
+- Speech-to-speech models
+- Keeping the tone steady across the call
+- Where it works well and where it fails
+
+Let's get started: [How does a voice agent match its tone and emotion to the user?](https://outcomeschool.com/blog/emotion-matching-in-voice-agents)
+
+---
+
 ## More blogs and videos coming soon!
 
 ### License
